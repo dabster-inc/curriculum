@@ -1,6 +1,6 @@
 # Hadoop Administration with the Power of DevOps
 
-### We upskill our candidates on various technologies such as:
+### We upskill our candidates on various technologies & skills, such as:
 * Linux Administration
 * Computer Hardware & Networking
 * Cloud Computing (GCP/AWS/Azure)
@@ -8,8 +8,11 @@
 * Hadoop Administration fundamentals & advance
 * Hadoop Security and Enterprise Big Data Governance
 * Backup and Recovery
-* User Management with Active Directory, OpenLDAP & FreeIPA
-* DevOp tools to manager large Hadoop Clusters
+* Troubleshooting
+* Active Directory, OpenLDAP & FreeIPA
+* DevOp tools
+* Real-Time projects
+
 
 ------------------------------------------------------------------------------------------------------------------------------
 #### 1. Linux Administration
