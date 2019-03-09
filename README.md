@@ -1,2 +1,2 @@
 # Hadoop Administration
-Course curriculum
+##Hadoop Administration with the Power of DevOps
