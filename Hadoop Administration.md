@@ -8,7 +8,7 @@
 * Hadoop Administration fundamentals & advance
 * Hadoop Security and Enterprise Big Data Governance
 * Backup and Recovery
-* User Management wiht Active Directory, OpenLDAP & FreeIPA
+* User Management with Active Directory, OpenLDAP & FreeIPA
 * DevOp tools to manager large Hadoop Clusters
 
 ------------------------------------------------------------------------------------------------------------------------------
@@ -19,6 +19,9 @@
     * Storage Management
     * User/Group Management
     * Process Management
+    * Links
+    * Crons
+    * Shell Scripting
     * Troubleshoot system level and application level issues
 
 #### 2. Computer Hardware & Networking
@@ -33,30 +36,31 @@
 #### 3. Cloud Computing
     * Cloud computing fundamentals 
     * Different cloud providers & difference between them
-    * Data Centres
+    * Data Center
     * Server Deployment on Cloud
     * Virtual Private Cloud
     * Security on Cloud
 
 #### 4. Big Data Fundamentals
     * What is Big Data?
-    * Current problem & possibkle solutions for Big Data
+    * Current problem & possible solutions for Big Data
     * BigData use cases
 
 #### 5. Hadoop Fundamentals
     * What us Hadoop?
     * Evolution of Hadoop
-    * Undestanding Haddop core components
+    * Understanding Hadoop core components
     * Apache Hadoop & Various distribution
     * Hadoop v1, v2 & v3
-    * Deploye Apache Hadoop on Cloud
-    * Ambari & HDP cluster deployement
+    * Deploy Apache Hadoop on Cloud
+    * Ambari & HDP cluster deployment
     * Ambari administration
+    * Commissioning/Decommissioning Nodes
     
 #### 6. Hadoop Core-Components
     * Hadoop Distributed File System – HDFS
     	* Architecture in detail
-    	* HDFS filesystem & Adminsitrative Commands
+    	* HDFS filesystem & Administrative Commands
     	* HDFS Fsck
     	* HDFS balancer
     	* distcp
@@ -71,18 +75,18 @@
     	* LABs
 
 	* YARN & MapReduce
-		* Architecture in detail
+		* YARN (Data OS) Architecture in detail
 		* YARN Daemons
 		* YARN commands
 		* Distributed processing
 		* YARN WebUI
 		* Difference between MRv1 & MRv2
-		* YARN benifits
+		* YARN benefits
 		* Different Applications
 		* YARN & MR tuning consideration
 		* Schedulers in Hadoop
 		* Deep Dive Capacity Scheduler
-		* Node Lables
+		* Node Labels
 		* Design queue and submit jobs
 		* YARN APIs
 		* LABs
@@ -135,9 +139,9 @@
 	* Docker on YARN
 	* Erasure coding (EC)
 	* Federation in Hadoop3
-	* Deploye Hadoop v3
+	* Deploy Hadoop v3
    
-## RealTime projects & Interview prepration
+## Real-Time projects & Interview preparation
    * End to End project implementation
    * Cluster & Capacity Planning
    * Production Cluster Walkthrough
@@ -147,4 +151,4 @@
    * Interview moc calls
    * Most common interview questions and answers
    * Project/LAB experience with realtime issues and troubleshooting techniques
-   * Referral programe
+   * Referral program
