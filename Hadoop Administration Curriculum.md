@@ -1,5 +1,4 @@
-# Hadoop Administration
-## Hadoop Administration with the Power of DevOps
+# Hadoop Administration with the Power of DevOps
 
 ### We upskill our candidates on various technologies such as:
 * Linux Administration
