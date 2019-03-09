@@ -135,16 +135,17 @@
 	* Hadoop v3 features
 	* Docker on YARN
 	* Erasure coding (EC)
-	* Federation
+	* Federation in Hadoop3
+	* Deploye Hadoop v3
    
 ## RealTime projects & Interview prepration
-	* End to End project implementation
+   * End to End project implementation
    * Cluster & Capacity Planning
    * Production Cluster Walkthrough
    * Hadoop Admin Responsibilities
-	* Resume building
-	* Real time Interview Preparations
-	* Interview moc calls
-	* Most common interview questions and answers
-	* Project/LAB experience with realtime issues and troubleshooting techniques
-	* Referral programe
+   * Resume building by professionals
+   * Real time Interview Preparations
+   * Interview moc calls
+   * Most common interview questions and answers
+   * Project/LAB experience with realtime issues and troubleshooting techniques
+   * Referral programe
