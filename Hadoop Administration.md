@@ -31,7 +31,7 @@
     * Linux commands to handle network related issues
 
 #### 3. Cloud Computing
-	 * Cloud computing fundamentals 
+    * Cloud computing fundamentals 
     * Different cloud providers & difference between them
     * Data Centres
     * Server Deployment on Cloud
